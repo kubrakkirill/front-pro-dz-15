@@ -1,0 +1,26 @@
+#app {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 15px;
+  max-width: fit-content;
+  margin: 50px auto;
+}
+
+ul {
+  width: fit-content;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  width: fit-content;
+  margin: 5px 0;
+}
+
+.button {
+  background-color: #c00e0e;
+  color: #fff;
+  padding: 3px;
+}
